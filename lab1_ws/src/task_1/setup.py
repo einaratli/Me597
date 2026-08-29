@@ -15,11 +15,12 @@ setup(
     zip_safe=True,
     maintainer='me597',
     maintainer_email='einaratligudna@outlook.com',
-    description='TODO: Package description',
+    description='publisher that prints elapsed time',
     license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+        'publisher = task_1.publisher:main'
         ],
     },
 )
