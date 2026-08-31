@@ -1,0 +1,30 @@
+[0.063s] Invoking command in '/home/me597/ros2/Me597/lab1_ws/build/task_2_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me597/ros2/sim_ws/install/sim_utils:/opt/ros/humble /usr/bin/cmake /home/me597/ros2/Me597/lab1_ws/src/task_2_interfaces -DCMAKE_INSTALL_PREFIX=/home/me597/ros2/Me597/lab1_ws/install/task_2_interfaces
+[0.222s] [31mCMake Error at CMakeLists.txt:33:
+[0.222s]   Parse error.  Function missing ending ")".  Instead found unterminated
+[0.223s]   string with text "DEPENDENCIES geometry_msgs)
+[0.223s] 
+[0.223s]   
+[0.223s] 
+[0.223s]   if(BUILD_TESTING)
+[0.224s] 
+[0.224s]     find_package(ament_lint_auto REQUIRED)
+[0.226s]     # the following line skips the linter which checks for copyrights
+[0.226s]     # comment the line when a copyright and license is added to all source files
+[0.226s]     set(ament_cmake_copyright_FOUND TRUE)
+[0.227s]     # the following line skips cpplint (only works in a git repo)
+[0.227s]     # comment the line when this package is in a git repo and when
+[0.229s]     # a copyright and license is added to all source files
+[0.230s]     set(ament_cmake_cpplint_FOUND TRUE)
+[0.230s]     ament_lint_auto_find_test_dependencies()
+[0.230s] 
+[0.231s]   endif()
+[0.231s] 
+[0.231s]   
+[0.231s] 
+[0.231s]   ament_package()
+[0.235s] 
+[0.235s]   ".
+[0.235s] 
+[0.236s] [0m
+[0.236s] -- Configuring incomplete, errors occurred!
+[0.249s] Invoked command in '/home/me597/ros2/Me597/lab1_ws/build/task_2_interfaces' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me597/ros2/sim_ws/install/sim_utils:/opt/ros/humble /usr/bin/cmake /home/me597/ros2/Me597/lab1_ws/src/task_2_interfaces -DCMAKE_INSTALL_PREFIX=/home/me597/ros2/Me597/lab1_ws/install/task_2_interfaces
