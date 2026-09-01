@@ -1,0 +1,6 @@
+[console_scripts]
+joint_client = task_2.client:main
+joint_publisher = task_2.publisher:main
+joint_server = task_2.service:main
+joint_subscriber = task_2.subscriber:main
+
