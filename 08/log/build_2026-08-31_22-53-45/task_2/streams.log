@@ -1,0 +1,30 @@
+[0.689s] Invoking command in '/home/me597/ros2/Me597/lab1_ws/src/task_2': PYTHONPATH=/home/me597/ros2/Me597/lab1_ws/build/task_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/task_2 build --build-base /home/me597/ros2/Me597/lab1_ws/build/task_2/build install --record /home/me597/ros2/Me597/lab1_ws/build/task_2/install.log --single-version-externally-managed install_data
+[0.931s] running egg_info
+[0.932s] writing ../../build/task_2/task_2.egg-info/PKG-INFO
+[0.933s] writing dependency_links to ../../build/task_2/task_2.egg-info/dependency_links.txt
+[0.934s] writing entry points to ../../build/task_2/task_2.egg-info/entry_points.txt
+[0.934s] writing requirements to ../../build/task_2/task_2.egg-info/requires.txt
+[0.935s] writing top-level names to ../../build/task_2/task_2.egg-info/top_level.txt
+[0.939s] reading manifest file '../../build/task_2/task_2.egg-info/SOURCES.txt'
+[0.940s] writing manifest file '../../build/task_2/task_2.egg-info/SOURCES.txt'
+[0.941s] running build
+[0.941s] running build_py
+[0.942s] copying task_2/service.py -> /home/me597/ros2/Me597/lab1_ws/build/task_2/build/lib/task_2
+[0.942s] copying task_2/client.py -> /home/me597/ros2/Me597/lab1_ws/build/task_2/build/lib/task_2
+[0.942s] running install
+[0.943s] running install_lib
+[0.945s] copying /home/me597/ros2/Me597/lab1_ws/build/task_2/build/lib/task_2/service.py -> /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[0.945s] copying /home/me597/ros2/Me597/lab1_ws/build/task_2/build/lib/task_2/client.py -> /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2
+[0.945s] byte-compiling /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2/service.py to service.cpython-310.pyc
+[0.946s] byte-compiling /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2/client.py to client.cpython-310.pyc
+[0.946s] running install_data
+[0.947s] running install_egg_info
+[0.950s] removing '/home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.952s] Copying ../../build/task_2/task_2.egg-info to /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages/task_2-0.0.0-py3.10.egg-info
+[0.952s] running install_scripts
+[0.977s] Installing joint_client script to /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/task_2
+[0.978s] Installing joint_publisher script to /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/task_2
+[0.979s] Installing joint_server script to /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/task_2
+[0.979s] Installing joint_subscriber script to /home/me597/ros2/Me597/lab1_ws/install/task_2/lib/task_2
+[0.980s] writing list of installed files to '/home/me597/ros2/Me597/lab1_ws/build/task_2/install.log'
+[1.005s] Invoked command in '/home/me597/ros2/Me597/lab1_ws/src/task_2' returned '0': PYTHONPATH=/home/me597/ros2/Me597/lab1_ws/build/task_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/me597/ros2/Me597/lab1_ws/install/task_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/task_2 build --build-base /home/me597/ros2/Me597/lab1_ws/build/task_2/build install --record /home/me597/ros2/Me597/lab1_ws/build/task_2/install.log --single-version-externally-managed install_data
